@@ -1,0 +1,15 @@
+{
+  "name": "IOPN Genesis NFT",
+  "description": "Genesis NFT Collection on IOPN.",
+  "image": "ipfs://bafkreigo4lfthaju7mhdeydwyv5z6ixdeeql6pdbzewya6jhviiuifngsq/genesis.png",
+  "attributes": [
+    {
+      "trait_type": "Generation",
+      "value": "Genesis"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    }
+  ]
+}
