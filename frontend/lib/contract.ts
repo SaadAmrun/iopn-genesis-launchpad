@@ -1,7 +1,7 @@
 import { ethers } from "ethers";
 
 export const CONTRACT_ADDRESS =
-  "0x88994f80dE669cE6Ab4b87f6607a45fa59711C81";
+  "0x65dB6A501CcFC831522C7085B8c8392B2227b325";
 
 export const ABI = [
   "function mint() payable",
